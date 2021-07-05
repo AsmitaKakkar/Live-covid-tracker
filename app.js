@@ -143,8 +143,8 @@ function axesLinearChart() {
           label: "Cases",
           data: cases_list,
           fill: false,
-          borderColor: "#FFF",
-          backgroundColor: "#FFF",
+          borderColor: "#0065",
+          backgroundColor: "#FF4",
           borderWidth: 1,
         },
         {
